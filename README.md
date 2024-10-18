@@ -4,7 +4,7 @@
 
 ### a little about me
 
-<p>I am an Informatics student from Telkom University Surabaya</p>
+<p>I am an Informatics student from Telkom University Surabaya, and I try to learn new things</p>
 
 <details>
     <summary>Languages</summary>
@@ -32,15 +32,6 @@
 <br>
 <br>
 
-<div align="center">
-
-### Top languages ​​that I use
-
-</div>
-<div  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Resyorc&layout=compact&theme=radical" alt="Resyorc Top Languages" width="80%" />
-</div>
-
 # Statistics 📊
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0.4rem;" align="center">
@@ -50,6 +41,16 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Resyorc&theme=rogue" alt="Resyorc Activity Graph" style="width:100%;"/>
 </div>
+<br>
+<br>
+
+# Languages 🌏
+
+<div  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Resyorc&layout=compact&theme=radical" alt="Resyorc Top Languages" width="70%" />
+</div>
+<br>
+<br>
 
 # Trophy Badges 🏆
 
