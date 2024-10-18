@@ -1,15 +1,58 @@
-## Hi there 👋
+# Hello, Welcome to my Github 👋
 
-**Resyorc/Resyorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif?cid=790b7611jrn044vm8mct6foijkfhde8b74c1u8527hvt3xnw&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="50%" />
 
-Here are some ideas to get you started:
+### a little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>I am an Informatics student from Telkom University Surabaya</p>
 
+<details>
+    <summary>Languages</summary>
+    
+![Languages](https://skillicons.dev/icons?i=py,js,html,css,php,c,java)
+</details>
+
+<details>
+    <summary>Tools</summary>
+    
+![Languages](https://skillicons.dev/icons?i=github,vscode,npm,mysql,postman)
+</details>
+
+<details>
+    <summary>Framework</summary>
+    
+![Languages](https://skillicons.dev/icons?i=laravel,django,bootstrap)
+</details>
+
+<details>
+    <summary>Operating System</summary>
+    
+![Languages](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+</details>
+<br>
+<br>
+
+<div align="center">
+
+### Top languages ​​that I use
+
+</div>
+<div  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Resyorc&layout=compact&theme=radical" alt="Resyorc Top Languages" width="80%" />
+</div>
+
+# Statistics 📊
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 0.4rem;" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Resyorc&show_icons=true&theme=radical" alt="Resyorc Github Stats" style="width:48%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Resyorc&theme=radical" alt="Resyorc Github Streak" style="width:51%;"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Resyorc&theme=rogue" alt="Resyorc Activity Graph" style="width:100%;"/>
+</div>
+
+# Trophy Badges 🏆
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Resyorc&theme=dracula" alt="Resyorc Trophy" style="width:100%;"/>
+</div>
