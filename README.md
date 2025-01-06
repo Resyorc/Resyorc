@@ -43,17 +43,3 @@
 </div>
 <br>
 <br>
-
-# Languages 🌏
-
-<div  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Resyorc&layout=compact&theme=radical" alt="Resyorc Top Languages" width="70%" />
-</div>
-<br>
-<br>
-
-# Trophy Badges 🏆
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Resyorc&theme=dracula" alt="Resyorc Trophy" style="width:100%;"/>
-</div>
