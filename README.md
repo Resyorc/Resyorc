@@ -27,7 +27,7 @@
 <details>
     <summary>Operating System</summary>
     
-![Languages](https://skillicons.dev/icons?i=windows,linux,ubuntu)
+![Languages](https://skillicons.dev/icons?i=windows,linux,ubuntu,arch)
 </details>
 <br>
 <br>
